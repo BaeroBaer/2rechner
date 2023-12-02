@@ -8,3 +8,8 @@ Date of Test: 2023-12-02 13:00:43
 Bubble Sort Time: 4.152373 seconds
 Quick Sort Time: 0.015824 seconds
 
+Computer Name: DESKTOP-SV2QNDG
+Date of Test: 2023-12-02 13:45:00
+Bubble Sort Time: 11.188062 seconds
+Quick Sort Time: 0.027010 seconds
+
