@@ -1,0 +1,10 @@
+Computer Name: LAPTOP-LOQST66M
+Date of Test: 2023-12-02 12:59:08
+Bubble Sort Time: 0.000000 seconds
+Quick Sort Time: 0.000000 seconds
+
+Computer Name: LAPTOP-LOQST66M
+Date of Test: 2023-12-02 13:00:43
+Bubble Sort Time: 4.152373 seconds
+Quick Sort Time: 0.015824 seconds
+
